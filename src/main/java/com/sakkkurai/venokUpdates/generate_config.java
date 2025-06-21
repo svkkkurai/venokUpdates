@@ -16,7 +16,7 @@ public class generate_config {
 
     public static void main(String[] args) {
         // Variables
-        int versionCode = 324;
+        int versionCode = 327;
         String downloadLink = "https://github.com/svkkkurai/venok/releases/download/3.2/venok-3.2.apk";
         String fileName = "update.json";
 
@@ -25,10 +25,10 @@ public class generate_config {
         Map<String, Object> metadata = new LinkedHashMap<>();
         metadata.put("versionCode", versionCode);
         metadata.put("downloadLink", downloadLink);
-        List<String> changelog = new ArrayList<>();
-        changelog.add(Changelog.en);
-        changelog.add(Changelog.ru);
-        changelog.add(Changelog.uk);
+        Map<String, String> changelog = new LinkedHashMap<>();
+        changelog.put("en", Changelog.en);
+        changelog.put("ru", Changelog.ru);
+        changelog.put("uk", Changelog.uk);
         metadata.put("changelog", changelog);
         // Generating JSON file
         String output = json.toJson(metadata);

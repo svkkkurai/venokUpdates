@@ -1,9 +1,9 @@
 {
-  "versionCode": 324,
+  "versionCode": 327,
   "downloadLink": "https://github.com/svkkkurai/venok/releases/download/3.2/venok-3.2.apk",
-  "changelog": [
-    "Changelog example on English",
-    "Пример ченджлога на русском языке",
-    "Приклад ченджлогу на укр"
-  ]
+  "changelog": {
+    "en": "Test changelog (eng)",
+    "ru": "Тест ченйнджлога (ру)",
+    "uk": "Тест ченджлогу (укр)"
+  }
 }
