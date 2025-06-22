@@ -4,20 +4,17 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.LinkedHashMap;
-import java.util.List;
 import java.util.Map;
 
 public class generate_config {
 
     public static void main(String[] args) {
         // Variables
-        int versionCode = 327;
-        String downloadLink = "https://github.com/svkkkurai/venok/releases/download/3.2/venok-3.2.apk";
+        int versionCode = 328;
+        String downloadLink = "https://github.com/svkkkurai/venok/releases/download/3.2.2/venok-3.2.2.apk";
         String fileName = "update.json";
 
         // Initializing objects

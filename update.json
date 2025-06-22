@@ -1,9 +1,9 @@
 {
-  "versionCode": 327,
-  "downloadLink": "https://github.com/svkkkurai/venok/releases/download/3.2/venok-3.2.apk",
+  "versionCode": 328,
+  "downloadLink": "https://github.com/svkkkurai/venok/releases/download/3.2.2/venok-3.2.2.apk",
   "changelog": {
-    "en": "Test changelog (eng)",
-    "ru": "Тест ченйнджлога (ру)",
-    "uk": "Тест ченджлогу (укр)"
+    "en": "Added localize strings on Russian",
+    "ru": "Добавлены строки локализации на русском языке",
+    "uk": "Додано локалiзацiю на рос. мовi"
   }
 }
