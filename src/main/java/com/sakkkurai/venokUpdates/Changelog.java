@@ -1,7 +1,7 @@
 package com.sakkkurai.venokUpdates;
 
 public class Changelog {
-    public static String en = "Added localize strings on Russian";
-    public static String ru = "Добавлены строки локализации на русском языке";
-    public static String uk = "Додано локалiзацiю на рос. мовi";
+    public static String en = "- Fixed audiofocus bug,\n- All seekbars changed to slider due Material Design 3 Expressive.";
+    public static String ru = "- Исправлен баг с аудиофокусом, \n- Все сикбары были заменены на слайдеры из-за нового дизайн-кода, под названием Material Design 3 Expressive";
+    public static String uk = "- Виправлено баг з аудіофокусом, \n- Усі сікбари були замінені на слайдери через новий дизайн-код, під назвою Material Design 3 Expressive";
 }

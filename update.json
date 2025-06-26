@@ -1,9 +1,9 @@
 {
-  "versionCode": 328,
-  "downloadLink": "https://github.com/svkkkurai/venok/releases/download/3.2.2/venok-3.2.2.apk",
+  "versionCode": 331,
+  "downloadLink": "https://github.com/svkkkurai/venok/releases/download/3.2.3/venok-3.2.3.apk",
   "changelog": {
-    "en": "Added localize strings on Russian",
-    "ru": "Добавлены строки локализации на русском языке",
-    "uk": "Додано локалiзацiю на рос. мовi"
+    "en": "- Fixed audiofocus bug,\n- All seekbars changed to slider due Material Design 3 Expressive.",
+    "ru": "- Исправлен баг с аудиофокусом, \n- Все сикбары были заменены на слайдеры из-за нового дизайн-кода, под названием Material Design 3 Expressive",
+    "uk": "- Виправлено баг з аудіофокусом, \n- Усі сікбари були замінені на слайдери через новий дизайн-код, під назвою Material Design 3 Expressive"
   }
 }
