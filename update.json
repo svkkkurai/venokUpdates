@@ -1,6 +1,6 @@
 {
   "versionCode": 331,
-  "downloadLink": "https://github.com/svkkkurai/venok/releases/download/3.2.3/venok-3.2.3.apk",
+  "downloadLink": "https://github.com/svkkkurai/venokUpdates/releases/download/3.2.3/venok-3.2.3.apk",
   "changelog": {
     "en": "- Fixed audiofocus bug,\n- All seekbars changed to slider due Material Design 3 Expressive.",
     "ru": "- Исправлен баг с аудиофокусом, \n- Все сикбары были заменены на слайдеры из-за нового дизайн-кода, под названием Material Design 3 Expressive",
