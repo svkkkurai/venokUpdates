@@ -13,8 +13,8 @@ public class generate_config {
 
     public static void main(String[] args) {
         // Variables
-        int versionCode = 331;
-        String downloadLink = "https://github.com/svkkkurai/venok/releases/download/3.2.3/venok-3.2.3.apk";
+        int versionCode = 400;
+        String downloadLink = "https://github.com/svkkkurai/venokUpdates/releases/download/4.0/app-release.apk";
         String fileName = "update.json";
 
         // Initializing objects
